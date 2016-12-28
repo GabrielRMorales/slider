@@ -1,0 +1,33 @@
+main{
+  width: 600px;
+  margin: 0 auto;
+}
+h1{
+  text-align:center;
+}
+#slider {
+  width:600px;
+  height: 400px;
+  overflow:hidden;
+  margin: 30px auto;
+}
+
+#slider img{
+  width: 600px;
+  height: 400px;
+  float:left;
+  display: hidden;
+}
+a{
+  padding: 5px 10px;
+  background-color: #F0F0F0;
+  margin-top: 30px;
+  text-decoration: none;
+  color: blue;
+}
+a.left{
+float: left;
+}
+a.right{
+float:right;
+}
